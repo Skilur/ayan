@@ -1,0 +1,12 @@
+
+
+h3. Новости
+
+---
+
+h4. Временные метки
+
+* 2017-03-27 На новый сайт переведены домен "esp8266.flymon.net":http://esp8266.flymon.net
+* 2017-03-21 На новый сайт переведены домены "esp8266.pw":http://esp8266.pw и "monitor.flymon.net":http://monitor.flymon.net
+* 2017-03-20 Запущена тестовая версия обновлённого сайта на домене "araneus.flymon.net":http://araneus.flymon.net
+
