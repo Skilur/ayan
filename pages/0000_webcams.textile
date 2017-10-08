@@ -1,0 +1,21 @@
+
+h3. Панорамные видеокамеры
+
+---
+
+p=. <img src="http://monitor.flymon.net/workflow/img/00E0F803F86C.jpg" oncontextmenu="return false;" width="100%">
+
+p=. Вид на Демерджи, трассу Симферополь - Алушта и Чёрное море. Обновление каждые 5 мин.
+
+---
+
+p=. <img src="http://monitor.flymon.net/workflow/img/00E0F81001A7.jpg" oncontextmenu="return false;" width="100%">
+
+p=. Вид на Чатыр-Даг. Обновление каждые 5 мин.
+
+---
+
+p=. <img src="http://mqtt-iot.ru/zigfisher/test_lenvodokanal/001212F38867.jpg" oncontextmenu="return false;" width="100%">
+
+p=. Ленийский район, п.Белинское, Базовая станция AirMax 5G. Обновление каждые 5 мин.
+

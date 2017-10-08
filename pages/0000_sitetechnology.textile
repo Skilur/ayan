@@ -1,0 +1,24 @@
+
+h3. Используемые технологии
+
+---
+
+p. Ресурс создан на базе компонентов:
+
+* "bootstrap-3.3.7":http://getbootstrap.com/
+* "bootswatch-3.3.7":http://bootswatch.com/
+* "font-awesome-4.7.0":http://fontawesome.io/
+* "jquery-3.2.1":https://jquery.com/download/
+
+---
+
+p. Так-же используются разработки "ZFT Lab.":http://zftlab.org :
+
+* "crutch-1.2.4":http://zftlab.org
+* "microblog-1.1.6":http://zftlab.org
+
+---
+
+p. Проверка кода выполняется при помощи:
+
+* "The W3C Markup Validation Service":https://validator.w3.org/
